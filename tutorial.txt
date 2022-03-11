@@ -3,5 +3,4 @@ Tutorial
 Questo file è semplicemente usato per mostrare 
 il funzionamento di git e github
 
-
-EDIT:aggiunta
+Si possono anche modificare i file in questo modo.
