@@ -4,3 +4,5 @@ Questo file è semplicemente usato per mostrare
 il funzionamento di git e github
 
 Si possono anche modificare i file in questo modo.
+
+Potremmo aggiungere altre linee di testo nel nostro file per aiutarci
