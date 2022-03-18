@@ -4,3 +4,5 @@ This is an example repository for the git and github tutorial on https://www.w3s
 
 
 This repository is built step by step in the tutorial.
+
+Now it includes steps for Github.
